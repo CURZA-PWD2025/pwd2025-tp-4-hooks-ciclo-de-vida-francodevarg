@@ -1,8 +1,9 @@
 <template>
     <div class="">
-        Home
+        <Lista />
     </div>
 </template>
 
 <script setup lang="ts">
+import Lista from '../components/Lista.vue';
 </script>
