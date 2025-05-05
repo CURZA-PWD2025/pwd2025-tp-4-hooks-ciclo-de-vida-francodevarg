@@ -4,6 +4,8 @@
       <div class="logo">TP4</div>
       <nav class="nav">
         <RouterLink to="/">Inicio</RouterLink>
+        <RouterLink to="/tarea">Tarea</RouterLink>
+        <RouterLink to="/dimension">Dimension</RouterLink>
       </nav>
     </div>
   </header>
